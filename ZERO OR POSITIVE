@@ -1,0 +1,6 @@
+a=int(input())
+check=(a==0 or a>0)
+if check:
+    print("zero")
+else:
+    print("positive")
