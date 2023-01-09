@@ -1,0 +1,6 @@
+a=int(input())
+if a>15 and a<40:
+    print("can go for walk")
+else:
+    print("cannot go for a walk")
+
