@@ -1,0 +1,7 @@
+a=int(input())
+counter=0
+while counter<a:
+    row="* "*a
+    print(row)
+    counter=counter+1
+    
